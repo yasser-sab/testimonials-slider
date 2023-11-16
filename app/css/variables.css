@@ -1,0 +1,22 @@
+:root {
+
+/*start color variables*/
+
+--dark-blue: hsl(240, 38%, 20%);
+--grayish-blue: hsl(240, 18%, 77%);
+--white:#fff;;
+
+/*end color variables*/
+
+/*start font variables*/
+
+--fs: 200%;
+--ff: 'Inter', sans-serif;
+--fs-s:300;
+--fs-m:500;
+--fs-l:700;
+
+/*end font variables*/
+
+
+}
